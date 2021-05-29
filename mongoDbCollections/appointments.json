@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "60b1d74c4e220136c05e2ea5"
+  },
+  "sellerId": "60a902f433238b35c6089faf",
+  "customerId": "60aa9157bc92fcdeda8bb4c8",
+  "appointmentDate": "2021-05-29",
+  "appointmentId": "60b1ce02c91ff103dc71d464",
+  "timeslot": "10:00 AM-12.30 PM",
+  "appointmentStatus": null,
+  "customerName": "Anjana A",
+  "contactNumber": "+9877  677 456",
+  "__v": 0
+}]

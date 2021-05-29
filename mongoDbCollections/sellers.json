@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "60a902f433238b35c6089faf"
+  },
+  "sellerName": "Huda Beauty Salon",
+  "location": "Al Khor City",
+  "workingHours": "9.30 am -5.30 pm",
+  "phoneNumber": "+974 6169 7890"
+},{
+  "_id": {
+    "$oid": "60a9063533238b35c6089fb5"
+  },
+  "sellerName": "LULU stores",
+  "location": "Al Wakrah",
+  "workingHours": "10:00 am -6:00 pm",
+  "phoneNumber": "+974 8975 6953"
+},{
+  "_id": {
+    "$oid": "60aa50da2bd8b426182cb263"
+  },
+  "sellerName": "More Stores",
+  "location": "Al Kawaj",
+  "workingHours": "9.00 am -5.30 pm",
+  "phoneNumber": "+974 6677 7890",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afc4d3ac6f573cb0b77d58"
+  },
+  "sellerName": "More Stores",
+  "location": "Al Kawaj",
+  "workingHours": "9.00 am -5.30 pm",
+  "phoneNumber": "+974 6677 7890",
+  "__v": 0
+}]

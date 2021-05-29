@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "60aa9157bc92fcdeda8bb4c8"
+  },
+  "contactNumber": "+974 5678 4321",
+  "customerName": "Anjana A"
+},{
+  "_id": {
+    "$oid": "60aa92c3bc92fcdeda8bb4c9"
+  },
+  "contactNumber": "+974 5097 4361",
+  "customerName": "Amal P"
+}]
