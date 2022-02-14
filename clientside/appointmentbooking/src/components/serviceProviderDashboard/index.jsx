@@ -22,7 +22,7 @@ function ServiceProviderDashboard() {
     getAllSellers();
   }, []);
 
-  // API
+  // APIS
   const getPendingBookingRequest = () => {
     fetch("http://localhost:5000/Appointment/getPendingRequest")
       .then((response) => response.json())
