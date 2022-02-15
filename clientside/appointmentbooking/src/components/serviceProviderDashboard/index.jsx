@@ -15,7 +15,7 @@ function ServiceProviderDashboard() {
   const functions = ["Add"];
 
   useEffect(() => {
-    getPendingBookingRequest();
+    getPendingBookingRequests();
   });
 
   useEffect(() => {
@@ -23,7 +23,7 @@ function ServiceProviderDashboard() {
   }, []);
 
   // APIS
-  const getPendingBookingRequest = () => {
+  const getPendingBookingRequests = () => {
     fetch("http://localhost:5000/Appointment/getPendingRequest")
       .then((response) => response.json())
       .then((data) => {
